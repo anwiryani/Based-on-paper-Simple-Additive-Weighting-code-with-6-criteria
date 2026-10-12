@@ -6,6 +6,7 @@ Kriteria utama:
 1. Nilai rata-rata rapor
 2. Nilai rata-rata ujian
 3. Nilai prestasi
+   
 Kriteria tambahan:
 1. Keaktifan berorganisasi
 2. Skor kredit prestasi
